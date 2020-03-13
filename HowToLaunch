@@ -1,0 +1,6 @@
+make clean
+make COMPONENTS_DIRNAMES=NaiveHashComponent
+make clean
+make COMPONENTS_DIRNAMES=sha256
+make clean
+make COMPONENTS_DIRNAMES=sha3
