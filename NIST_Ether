@@ -1,0 +1,2 @@
+Ethereum utilise KECCAK-256.
+le NIST a changé le remplissage en SHA3-256 (M) = KECCAK [512] (M || 01, 256), la différence réside dans les bits «01» supplémentaires ajoutés au message
